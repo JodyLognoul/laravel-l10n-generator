@@ -21,7 +21,7 @@ After:
 
 ```
 ...
-  <p>__('l10n-gen.index_blade_html_89')</p>
+  <p data-lzn>__('l10n-gen.index_blade_html_89')</p>
 ...  
 ```
 
