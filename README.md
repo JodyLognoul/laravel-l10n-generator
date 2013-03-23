@@ -21,11 +21,11 @@ After:
 
 ```
 ...
-  <p>__('index_blade_html_89')</p>
+  <p>__('l10n-gen.index_blade_html_89')</p>
 ...  
 ```
 
-And within the application/language/en/l10n-generator.php file :
+And within the application/language/en/l10n-gen.php file :
 
 ```
 return array(
