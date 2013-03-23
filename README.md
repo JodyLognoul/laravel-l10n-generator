@@ -8,7 +8,9 @@ Place the "data-lzn" attribute on a html/blade tag, run the generator, and the t
 Before : 
 
 ```
-<p>Hello world guys!</p>
+...
+<p data-lzn>Hello world guys!</p>
+...
 ```
 Run:
 
@@ -18,7 +20,9 @@ $ l10n-gen .
 After:
 
 ```
+...
   <p>__('index_blade_html_89')</p>
+...  
 ```
 
 And within the application/language/en/l10n-generator.php file :
